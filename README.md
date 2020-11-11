@@ -1,15 +1,12 @@
-# Android Project Design
+### Android Project Design
 
 This is My First Project Where I have created Total Android App including Database and Design for Client.
 
-## Installation
+## Let me Show you Some of My work in form of ScreenShot.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+# Login Screen
 
-```bash
-pip install foobar
-```
-
+![alt text](https://github.com/dongahiral/androidfirstproject/blob/main/1.jpg?raw=true)
 ## Usage
 
 ```python
