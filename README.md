@@ -1,8 +1,6 @@
-# androidfirstproject
+# Android Project Design
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+This is My First Project Where I have created Total Android App including Database and Design for Client.
 
 ## Installation
 
