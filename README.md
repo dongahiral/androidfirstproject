@@ -1,6 +1,6 @@
 # Android Project Design
 
-This is My First Project Where I have created Total Android App including Database and Design for Client.
+This is My One of the Real world Project which developed for Client.This is totally Android based App including Database and Report Generation.
 
 ## Let me Show you Some of My work in form of ScreenShot.
 
@@ -29,7 +29,14 @@ This is My First Project Where I have created Total Android App including Databa
 
 
 
-### There is also more which i done by me including Storing the Customer Data into Database (Realm) and user can get it through the report export.
+### There is also more which includes:-->
+```
+1.Storing the Customer Data into Database (Realm).
+2.All the CRUD operation.
+3.Users can get its Details through Report.
+4.Product Creation.
+5.Search Screen.
+etc ```
 
 
 
