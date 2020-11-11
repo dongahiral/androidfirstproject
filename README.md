@@ -19,13 +19,13 @@ This is My First Project Where I have created Total Android App including Databa
 ```
 3.Update Customer Screen
 ```
-![alt text](https://github.com/dongahiral/androidfirstproject/blob/main/4.jpg?raw=true)
+![alt text](https://github.com/dongahiral/androidfirstproject/blob/main/4.png?raw=true)
 
 
 ```
 4.Purchase order Screen
 ```
-![alt text](https://github.com/dongahiral/androidfirstproject/blob/main/5.jpg?raw=true)
+![alt text](https://github.com/dongahiral/androidfirstproject/blob/main/5.png?raw=true)
 
 
 
